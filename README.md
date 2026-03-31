@@ -75,7 +75,7 @@ Kekanaaviwe@gmail.com
 
 ## Mock Interview
 <video controls width="600">
-  <source src="mock-interview.mp4" type="video/mp4">
+  <source src="Mock-interview.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
