@@ -91,6 +91,14 @@ Technologies used: Java
 Designed a web-based application to help CPUT students to book for campus clinic appointments, student counselling services to avoid standing in long ques and making things easier by moving to digital.
 Technologies used: HTML/CSS, Javascript, node JS, React, and SQL.
 
+---
+
+## Mock Interview
+
+<video width="600" controls>
+  <source src="Mock-interview.mp4" type="video/mp4">
+</video>
+
 
 
 
