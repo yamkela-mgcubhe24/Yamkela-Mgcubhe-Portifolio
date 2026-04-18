@@ -99,6 +99,10 @@ Technologies used: HTML/CSS, Javascript, node JS, React, and SQL.
   <source src="Mock-interview.mp4" type="video/mp4">
 </video>
 
+## Reflections
+
+### 
+
 
 
 
