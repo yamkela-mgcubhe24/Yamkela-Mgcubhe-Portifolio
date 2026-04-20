@@ -81,18 +81,6 @@ Software Development Programme Learnership Trainee
 
 ---
 
-## Projects
-
-### Student Registration System
-I built a small console-based student registration system that allows creating, reading, updating, and deleting student records on the system.
-Technologies used: Java
-
-### CampusMate
-Designed a web-based application to help CPUT students to book for campus clinic appointments, student counselling services to avoid standing in long ques and making things easier by moving to digital.
-Technologies used: HTML/CSS, Javascript, node JS, React, and SQL.
-
----
-
 ## Mock Interview
 
 <video width="600" controls>
