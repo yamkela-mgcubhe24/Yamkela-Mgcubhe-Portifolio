@@ -162,6 +162,19 @@ We communicated with one another to discuss project activities, share informatio
 
 ## 5. Project Evidence
 
+The following evidence supported our team organisation and responsibilities during the project:
+
+1. **Trello Board:** A screenshot of our Trello board showing the tasks and project progress.
+   
+3. **Team Roles and Responsibilities:** A table identifying each team member's role and contribution.
+4. **Project Report:** Our completed report outlining the community problem and proposed security-service business idea.
+
+### Evidence Attachments
+
+- Trello Board: ![Trello Board](../evidence/trello-board.png)
+- Project Report: [View Project Report](../evidence/project-report.pdf)
+
+
 
 
 ## 6. Reflection On Agile Team Charter
