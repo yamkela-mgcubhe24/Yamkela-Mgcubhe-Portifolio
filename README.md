@@ -195,3 +195,41 @@ To fulfil my role, I helped organize the project content and improve how the inf
 ### Result
 As a result, I gained a better understanding of teamwork, communication and the importance of dividing responsibilities. I also improved my ability to organize and present information clearly. This experience taught me how individual contributions and collaboration helped our team work towards completing the project.
 
+### User Stories and Tasks
+## Introduction
+During our project, we identified the needs of people who could benefit from our proposed community-based security service in Soshanguve. We used user stories to describe what different users would need from the service and to connect those needs to tasks involved in developing our business concept.
+
+## User Stories
+
+## 2. User Stories
+
+| ID | User Role | User Story | Priority |
+|---|---|---|---|
+| US01 | Community Resident | As a resident, I wanted to access affordable security services so that I could improve my safety and protect my property. | High |
+| US02 | Community Resident | As a resident, I wanted to send an emergency alert so that nearby security guards could be notified when I needed assistance. | High |
+| US03 | Security Guard | As a security guard, I wanted to receive emergency alerts so that I could respond to residents who needed help. | High |
+| US04 | Local Youth | As a young person, I wanted access to security training and certification opportunities so that I could improve my chances of finding employment. | Medium |
+| US05 | Small Business Owner | As a small business owner, I wanted affordable security services so that I could protect my business and property. | High |
+| US06 | Community Resident | As a resident, I wanted a reasonable membership fee so that the service would be affordable for my household. | Medium |
+
+## Tasks
+
+## 3. Tasks Identified
+
+| Task ID | Task Description | Related User Story |
+|---|---|---|
+| T01 | Research safety and security challenges affecting the Soshanguve community. | US01, US05 |
+| T02 | Investigate affordable membership fees for the proposed service. | US01, US06 |
+| T03 | Describe how the proposed mobile alert system would connect residents with nearby security guards. | US02, US03 |
+| T04 | Investigate training and certification opportunities for local youth. | US04 |
+| T05 | Develop the business concept and explain the value it would provide to the community. | US01, US05 |
+| T06 | Organise and edit the project report to present the business idea clearly. | US01–US06 |
+
+## Evidence
+Our Trello board, showing the tasks we organised and tracked.
+Research notes and survey results 
+## Evidence Attachments
+### Tasks
+
+### Survey Evidence
+
