@@ -165,9 +165,10 @@ We communicated with one another to discuss project activities, share informatio
 The following evidence supported our team organisation and responsibilities during the project:
 
 1. **Trello Board:** A screenshot of our Trello board showing the tasks and project progress.
-   
+   - Trello Board: ![Trello Board](../evidence/Trello Snapchat Evidence.png)
 3. **Team Roles and Responsibilities:** A table identifying each team member's role and contribution.
-4. **Project Report:** Our completed report outlining the community problem and proposed security-service business idea.
+4. 
+5. **Project Report:** Our completed report outlining the community problem and proposed security-service business idea.
 
 ### Evidence Attachments
 
