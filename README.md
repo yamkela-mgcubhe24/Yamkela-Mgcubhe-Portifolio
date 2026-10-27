@@ -168,8 +168,10 @@ The following evidence supported our team organisation and responsibilities duri
 3. **Team Roles and Responsibilities:** A table identifying each team member's role and contribution.
 
 ### Evidence Attachments
-
-- Trello Board: ![Trello Board](../evidence/Trello Snapchat Evidence.png)
+## Trello Evidence
+<p align="center">
+  <img src="Trello Snapchat Evidence.png" alt="Screenshot of our Trello board" width="800">
+</p>
 - Team Roles:  [Roles and Responsibilities](../evidence/Roles Snapshot.png)
 
 
