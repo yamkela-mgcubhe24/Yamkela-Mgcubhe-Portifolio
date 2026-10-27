@@ -138,5 +138,42 @@ To achieve this, I followed the necessary steps to enable GitHub Pages in my rep
 As a result, I successfully published my portfolio as a live website using GitHub Pages. This experience helped me understand how web hosting works and gave me practical skills in deploying content online. It also allowed me to showcase my work in a professional and accessible format.
 
 
+### WIL PROJECTS
 
+### Agile Team Charter
+
+## 1. Project Purpose
+Our team developed a business concept for an affordable, community-based security service in Soshanguve, north of Pretoria. The proposed service focused on improving community safety through a mobile alert system that would connect residents with nearby security guards during emergencies. The business idea also aimed to create employment opportunities for local youth through security training and certification.
+
+## 2. Team Roles and Responsibilities
+| Team Member | Role | Responsibilities |
+|---|---|---|
+| Ryle Peter May | Team Leader | Coordinated the team and guided the project. |
+| Nompumelelo Mbatha | Designer | Contributed to the design and presentation of the project. |
+| Yamkela Mgcubhe | Writer/Editor | Helped organise, write and edit the project information. |
+| Angel Dineo Masonganye | Researcher | Researched information relevant to the project. |
+
+## 3. Team Values and Working Agreements
+Our team focused on collaboration, respect, accountability and communication. We worked towards completing our assigned responsibilities and contributing to the shared project goal. We respected one another's ideas and shared information to support the development of our business concept.
+
+## 4. Collaboration and Project Coordination
+We communicated with one another to discuss project activities, share information and coordinate our responsibilities. We used Trello to organize tasks and monitor project progress. This helped us keep track of the work that needed to be completed and the tasks assigned to team members.
+
+
+## 5. Project Evidence
+
+
+
+## 6. Reflection On Agile Team Charter
+### Situation
+During this project, our team developed a business concept for an affordable community-based security service in Soshanguve. We needed to work together, divide responsibilities and organise our information to develop the business idea.
+
+### Task
+My role was Writer/Editor. My task was to help organize, write and edit the project information to ensure that our ideas were presented clearly and logically. I also needed to contribute to the completion of our project documentation.
+
+### Action
+To fulfil my role, I helped organize the project content and improve how the information was presented. I worked with my team members, considered the information gathered during the research process and contributed to documenting our business concept. We used Trello to organize tasks and track project progress.
+
+### Result
+As a result, I gained a better understanding of teamwork, communication and the importance of dividing responsibilities. I also improved my ability to organize and present information clearly. This experience taught me how individual contributions and collaboration helped our team work towards completing the project.
 
