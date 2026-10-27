@@ -170,12 +170,12 @@ The following evidence supported our team organisation and responsibilities duri
 ## Evidence Attachments
 ### Trello Evidence
 <p align="center">
-  <img src="Trello Snapchat Evidence.png" alt="Screenshot of our Trello board" width="800">
+  <img src="Trello Snapchat Evidence.png" alt="Screenshot of our Trello board" width="500">
 </p
 
 ### Team Roles Evidence
 <p align="center">
-  <img src="Roles Snapshot.png" alt="Screenshot of our roles in the project" width="800">
+  <img src="Roles Snapshot.png" alt="Screenshot of our roles in the project" width="500">
 </p>
 
 
@@ -231,11 +231,24 @@ Research notes and survey results
 ## Evidence Attachments
 ### Tasks
 <p align="center">
-  <img src="Trello Task Board.png" alt="Screenshot of our trello taskboard" width="800">
+  <img src="Trello Task Board.png" alt="Screenshot of our trello taskboard" width="500">
 </p>
 
 ### Survey Evidence
 <p align="center">
-  <img src="Survey Evidence.png" alt="Screenshot of our collected surveys" width="800">
+  <img src="Survey Evidence.png" alt="Screenshot of our collected surveys" width="500">
 </p>
+
+## Reflection on User Stories and Tasks
+### Situation
+During this project, our team developed a business concept for an affordable community-based security service in Soshanguve.
+
+### Task
+My task was to contribute to the project documentation and help present the business idea clearly.
+
+### Action
+I contributed to organising and documenting the project information. The user stories and tasks helped describe the needs of potential users and the activities involved in developing our proposed service.
+
+### Result
+I learned how user stories can help identify user needs and connect those needs to specific tasks. I also gained a better understanding of how planning and teamwork contribute to developing a business concept.
 
