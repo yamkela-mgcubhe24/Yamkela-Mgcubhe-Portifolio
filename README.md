@@ -175,7 +175,7 @@ The following evidence supported our team organisation and responsibilities duri
 
 ### Team Roles Evidence
 <p align="center">
-  <img src="Roles Snapshot.png" alt="Screenshot of our Trello board" width="800">
+  <img src="Roles Snapshot.png" alt="Screenshot of our roles in the project" width="800">
 </p>
 
 
