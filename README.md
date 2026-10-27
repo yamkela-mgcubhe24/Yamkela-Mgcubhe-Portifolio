@@ -230,6 +230,12 @@ Our Trello board, showing the tasks we organised and tracked.
 Research notes and survey results 
 ## Evidence Attachments
 ### Tasks
+<p align="center">
+  <img src="Trello Task Board.png" alt="Screenshot of our trello taskboard" width="800">
+</p>
 
 ### Survey Evidence
+<p align="center">
+  <img src="Survey Evidence.png" alt="Screenshot of our collected surveys" width="800">
+</p>
 
