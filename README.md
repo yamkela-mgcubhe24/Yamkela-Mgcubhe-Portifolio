@@ -252,3 +252,32 @@ I contributed to organising and documenting the project information. The user st
 ### Result
 I learned how user stories can help identify user needs and connect those needs to specific tasks. I also gained a better understanding of how planning and teamwork contribute to developing a business concept.
 
+## 1. Product Backlog
+
+### Introduction
+The product backlog contained the main features, requirements and tasks identified for our proposed community-based security service in Soshanguve. The project focused on improving community safety through affordable security services, a mobile emergency alert system and employment opportunities for local youth.
+
+The backlog helped us identify and prioritise the key elements of our business idea.
+
+## 2. Product Backlog Items
+
+| ID | Product Backlog Item | Description | Priority |
+|---|---|---|---|
+| PBI-01 | Community Safety Research | Research crime-related safety concerns and security challenges affecting residents of Soshanguve. | High |
+| PBI-02 | Problem Definition | Identify the main safety problem and the people affected, including women, elderly residents, schoolchildren and small business owners. | High |
+| PBI-03 | Business Idea Development | Develop a business concept for an affordable, community-based security service. | High |
+| PBI-04 | Mobile Alert System | Propose a mobile alert system that would connect residents with nearby security guards during emergencies. | High |
+| PBI-05 | Affordable Membership Fees | Develop a proposed membership model with fees of approximately R100–R200. | High |
+| PBI-06 | Local Employment Opportunities | Include security training, certification and potential employment opportunities for local youth. | Medium |
+| PBI-07 | Value Proposition | Explain how the proposed service could benefit residents and address their safety concerns. | High |
+| PBI-08 | Project Report | Organise, write and edit the project report to communicate the business idea clearly. | High |
+
+
+### 3. Prioritization
+We prioritised the items according to their importance to the overall business idea. Researching the community's safety challenges and defining the problem were important because they helped establish the need for the proposed service.
+
+Developing the business concept, proposed mobile alert system and affordable membership model helped explain how the service could work. Employment opportunities and the value proposition helped demonstrate the potential benefits for the community.
+
+### 4. Evidence of Product Backlog
+Trello cards showing project tasks.
+
