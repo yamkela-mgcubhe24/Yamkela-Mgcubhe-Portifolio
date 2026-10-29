@@ -139,6 +139,9 @@ As a result, I successfully published my portfolio as a live website using GitHu
 
 
 # WIL PROJECTS
+---
+title: Agile Team Charter
+---
 
 ## Agile Team Charter
 
