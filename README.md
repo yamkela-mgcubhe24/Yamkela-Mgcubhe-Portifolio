@@ -280,4 +280,22 @@ Developing the business concept, proposed mobile alert system and affordable mem
 
 ### 4. Evidence of Product Backlog
 Trello cards showing project tasks.
+<p align="center">
+  <img src="Product Backlog.png" alt="Screenshot of our collected surveys" width="500">
+</p>
+
+## Reflection on Product Backlog
+### Situation
+During our project, our team developed a business concept for an affordable, community-based security service in Soshanguve. We needed to identify the main activities and requirements that would help us develop and present our business idea
+
+### Task
+My task was to contribute to documenting the project and organizing the information related to our business concept. We also needed to identify and prioritize the main product backlog items according to their importance to the proposed service.
+
+### Action
+We identified and organized the main backlog items, including community safety research, problem definition, business idea development, the proposed mobile alert system, affordable membership fees, local employment opportunities and the value proposition. We prioritized these items according to their relevance to the community's safety needs and the overall business idea
+I learned how user stories can help identify user needs and connect those needs to specific tasks. I also gained a better understanding of how planning and teamwork contribute to developing a business concept.
+
+ ### Result
+ As a result, I gained a better understanding of how a product backlog helped organize project requirements and prioritise important activities. I learned that prioritization helped the team focus on the main problem the business idea aimed to address while keeping the project's goals clear.
+
 
