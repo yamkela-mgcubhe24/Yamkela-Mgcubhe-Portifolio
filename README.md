@@ -370,6 +370,12 @@ During the project, every team members contributed through their assigned roles.
 We worked towards the common goal of developing and presenting our business concept. Our different responsibilities contributed to the organisation and completion of the project.
 
 ## 4. Evidence
+We have a screenshot showing one of the tasks on our Trello board.
+<p align="center">
+  <img src="Agile Logbook.png" alt="Screenshot of our collected surveys" width="500">
+</p>
+
+
 
 
 ## 5. Reflection on Agile Logbook
