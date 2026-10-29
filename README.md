@@ -299,3 +299,47 @@ I learned how user stories can help identify user needs and connect those needs 
  As a result, I gained a better understanding of how a product backlog helped organize project requirements and prioritise important activities. I learned that prioritization helped the team focus on the main problem the business idea aimed to address while keeping the project's goals clear.
 
 
+## Sprint Backlog
+
+### 1. Introduction
+During our project, we worked on developing a business concept for an affordable, community-based security service in Soshanguve. The sprint backlog section organised the tasks involved in researching the community's safety concerns, defining the problem and developing our proposed business idea.
+
+### 2. Sprint Goal
+The goal was to develop and document a business concept that addressed community safety concerns through an affordable security service supported by a proposed mobile alert system.
+
+### 3.  Sprint Backlog Items
+
+## 3. Sprint Backlog Items
+
+| Task ID | Task Description | Expected Outcome | Priority |
+|---|---|---|---|
+| SB-01 | Research community safety concerns in Soshanguve. | Information about the community's safety challenges. | High |
+| SB-02 | Define the problem and identify affected community members. | A clear problem definition. | High |
+| SB-03 | Develop the proposed community-based security business idea. | A documented business concept. | High |
+| SB-04 | Describe the proposed mobile emergency alert system. | An explanation of how residents could contact nearby security guards. | High |
+| SB-05 | Develop the proposed membership fee model. | A proposed affordable fee range of R100–R200. | High |
+| SB-06 | Identify training and employment opportunities for local youth. | A description of potential community benefits. | Medium |
+| SB-07 | Develop the value proposition. | An explanation of how the service could address community needs. | High |
+| SB-08 | Compile and edit the project report. | A completed and organised project report. | High |
+
+
+### 4. Task Progress and Completion
+Our team worked on researching the community's safety concerns, defining the problem and developing the proposed business concept. We also documented the mobile alert system, membership model, employment opportunities and value proposition in the project report.
+
+The project report brought these elements together to communicate our proposed solution and its potential benefits to the Soshanguve community.
+
+### 5. Evidence
+We have screenshots of trello board showing our sprints.
+
+## 6. Reflection on Sprint Backlog
+### Situation
+During this project, our team developed a business concept for an affordable, community-based security service in Soshanguve.
+
+### Task
+We needed to organize the activities required to research the community's safety concerns, develop the business idea and complete the project report.
+
+### Action
+I contributed to the project documentation in my role as Writer/Editor. The project activities included researching the problem, documenting the proposed solution and organizing the information for the final report. These activities helped structure the work required to complete our business concept.
+
+### Result
+I learned how breaking a project into smaller tasks could make the work easier to organize and track. I also gained a better understanding of task prioritisation, teamwork and the importance of completing project activities to achieve a common goal.
