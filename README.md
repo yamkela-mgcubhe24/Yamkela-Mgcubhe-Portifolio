@@ -138,14 +138,14 @@ To achieve this, I followed the necessary steps to enable GitHub Pages in my rep
 As a result, I successfully published my portfolio as a live website using GitHub Pages. This experience helped me understand how web hosting works and gave me practical skills in deploying content online. It also allowed me to showcase my work in a professional and accessible format.
 
 
-### WIL PROJECTS
+# WIL PROJECTS
 
-### Agile Team Charter
+## Agile Team Charter
 
-## 1. Project Purpose
+### 1. Project Purpose
 Our team developed a business concept for an affordable, community-based security service in Soshanguve, north of Pretoria. The proposed service focused on improving community safety through a mobile alert system that would connect residents with nearby security guards during emergencies. The business idea also aimed to create employment opportunities for local youth through security training and certification.
 
-## 2. Team Roles and Responsibilities
+### 2. Team Roles and Responsibilities
 | Team Member | Role | Responsibilities |
 |---|---|---|
 | Ryle Peter May | Team Leader | Coordinated the team and guided the project. |
@@ -153,21 +153,21 @@ Our team developed a business concept for an affordable, community-based securit
 | Yamkela Mgcubhe | Writer/Editor | Helped organise, write and edit the project information. |
 | Angel Dineo Masonganye | Researcher | Researched information relevant to the project. |
 
-## 3. Team Values and Working Agreements
+### 3. Team Values and Working Agreements
 Our team focused on collaboration, respect, accountability and communication. We worked towards completing our assigned responsibilities and contributing to the shared project goal. We respected one another's ideas and shared information to support the development of our business concept.
 
-## 4. Collaboration and Project Coordination
+### 4. Collaboration and Project Coordination
 We communicated with one another to discuss project activities, share information and coordinate our responsibilities. We used Trello to organize tasks and monitor project progress. This helped us keep track of the work that needed to be completed and the tasks assigned to team members.
 
 
-## 5. Project Evidence
+### 5. Project Evidence
 
 The following evidence supported our team organisation and responsibilities during the project:
 
 1. **Trello Board:** A screenshot of our Trello board showing the tasks and project progress.
 3. **Team Roles and Responsibilities:** A table identifying each team member's role and contribution.
 
-## Evidence Attachments
+### Evidence Attachments
 ### Trello Evidence
 <p align="center">
   <img src="Trello Snapchat Evidence.png" alt="Screenshot of our Trello board" width="500">
@@ -195,13 +195,14 @@ To fulfil my role, I helped organize the project content and improve how the inf
 ### Result
 As a result, I gained a better understanding of teamwork, communication and the importance of dividing responsibilities. I also improved my ability to organize and present information clearly. This experience taught me how individual contributions and collaboration helped our team work towards completing the project.
 
-### User Stories and Tasks
+### User Stories and Tasks'
+
 ## Introduction
 During our project, we identified the needs of people who could benefit from our proposed community-based security service in Soshanguve. We used user stories to describe what different users would need from the service and to connect those needs to tasks involved in developing our business concept.
 
-## User Stories
 
-## 2. User Stories
+
+### 2. User Stories
 
 | ID | User Role | User Story | Priority |
 |---|---|---|---|
@@ -214,7 +215,7 @@ During our project, we identified the needs of people who could benefit from our
 
 ## Tasks
 
-## 3. Tasks Identified
+### 3. Tasks Identified
 
 | Task ID | Task Description | Related User Story |
 |---|---|---|
@@ -225,10 +226,11 @@ During our project, we identified the needs of people who could benefit from our
 | T05 | Develop the business concept and explain the value it would provide to the community. | US01, US05 |
 | T06 | Organise and edit the project report to present the business idea clearly. | US01–US06 |
 
-## Evidence
+### Evidence
 Our Trello board, showing the tasks we organised and tracked.
 Research notes and survey results 
-## Evidence Attachments
+### Evidence Attachments
+
 ### Tasks
 <p align="center">
   <img src="Trello Task Board.png" alt="Screenshot of our trello taskboard" width="500">
@@ -259,7 +261,7 @@ The product backlog contained the main features, requirements and tasks identifi
 
 The backlog helped us identify and prioritise the key elements of our business idea.
 
-## 2. Product Backlog Items
+### 2. Product Backlog Items
 
 | ID | Product Backlog Item | Description | Priority |
 |---|---|---|---|
@@ -345,11 +347,9 @@ I contributed to the project documentation in my role as Writer/Editor. The proj
 ### Result
 I learned how breaking a project into smaller tasks could make the work easier to organize and track. I also gained a better understanding of task prioritisation, teamwork and the importance of completing project activities to achieve a common goal.
 
-# Agile Logbook
+## Agile Logbook
 ## 1. Introduction
 The Agile Logbook documented the activities, progress and learning experiences from our community-based security service project in Soshanguve. It provided a record of the work involved in researching the community's safety concerns, defining the problem and developing our business concept.
-
-## 2. Project Activities and Progress
 
 ## 2. Project Activities and Progress
 
@@ -364,12 +364,12 @@ The Agile Logbook documented the activities, progress and learning experiences f
 
 
 
-## 3. Team Collaboration
+### 3. Team Collaboration
 During the project, every team members contributed through their assigned roles. I served as Writer/Editor, Ryle Peter May served as Team Leader, Nompumelelo Mbatha as Designer, and Angel Dineo Masonganye as Researcher.
 
 We worked towards the common goal of developing and presenting our business concept. Our different responsibilities contributed to the organisation and completion of the project.
 
-## 4. Evidence
+### 4. Evidence
 We have a screenshot showing one of the tasks on our Trello board.
 <p align="center">
   <img src="Agile Logbook.png" alt="Screenshot of our collected surveys" width="500">
