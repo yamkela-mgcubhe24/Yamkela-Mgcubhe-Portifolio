@@ -309,8 +309,6 @@ The goal was to develop and document a business concept that addressed community
 
 ### 3.  Sprint Backlog Items
 
-## 3. Sprint Backlog Items
-
 | Task ID | Task Description | Expected Outcome | Priority |
 |---|---|---|---|
 | SB-01 | Research community safety concerns in Soshanguve. | Information about the community's safety challenges. | High |
@@ -329,7 +327,10 @@ Our team worked on researching the community's safety concerns, defining the pro
 The project report brought these elements together to communicate our proposed solution and its potential benefits to the Soshanguve community.
 
 ### 5. Evidence
-We have screenshots of trello board showing our sprints.
+We have a screenshot of Trello board showing our sprints.
+<p align="center">
+  <img src="Sprint Backlog.png" alt="Screenshot of our collected surveys" width="500">
+</p>
 
 ## 6. Reflection on Sprint Backlog
 ### Situation
