@@ -344,3 +344,43 @@ I contributed to the project documentation in my role as Writer/Editor. The proj
 
 ### Result
 I learned how breaking a project into smaller tasks could make the work easier to organize and track. I also gained a better understanding of task prioritisation, teamwork and the importance of completing project activities to achieve a common goal.
+
+# Agile Logbook
+## 1. Introduction
+The Agile Logbook documented the activities, progress and learning experiences from our community-based security service project in Soshanguve. It provided a record of the work involved in researching the community's safety concerns, defining the problem and developing our business concept.
+
+## 2. Project Activities and Progress
+
+## 2. Project Activities and Progress
+
+| Date | Activity | Progress and Outcome | Challenges or Lessons Learned |
+|---|---|---|---|
+| 20 February | Community Safety Research | We researched safety concerns and security challenges affecting the Soshanguve community. | We learned the importance of using relevant information to understand a community problem. |
+| 25 february] | Problem Definition | We identified the main safety problem and the community members who could be affected. | We learned that clearly defining a problem helped us focus on an appropriate solution. |
+| [1 March] | Business Idea Development | We developed the concept of an affordable, community-based security service. | We considered how the proposed service could respond to residents' safety needs. |
+| [25 March] | Mobile Alert System | We described a proposed mobile alert system that would connect residents with nearby security guards. | We considered how technology could support communication during emergencies. |
+| [5 may] | Membership Fees and Value Proposition | We considered the proposed R100–R200 membership fee and documented the potential benefits of the service. | We learned the importance of considering affordability and community needs. |
+| [25 May] | Project Report Completion | We organized, wrote and edited the project information for the completed report. | We learned the importance of presenting information clearly and working towards a shared deadline. |
+
+
+
+## 3. Team Collaboration
+During the project, every team members contributed through their assigned roles. I served as Writer/Editor, Ryle Peter May served as Team Leader, Nompumelelo Mbatha as Designer, and Angel Dineo Masonganye as Researcher.
+
+We worked towards the common goal of developing and presenting our business concept. Our different responsibilities contributed to the organisation and completion of the project.
+
+## 4. Evidence
+
+
+## 5. Reflection on Agile Logbook
+### Situation 
+During this project, our team developed a business concept for an affordable, community-based security service in Soshanguve. We needed to research the community's safety concerns and present a proposed solution.
+
+### Task
+My role as Writer/Editor involved helping organize, write and edit the project information so that our business concept could be communicated clearly.
+
+### Action
+I contributed to documenting and organizing the project information. The project involved researching the community problem, explaining the proposed security service and bringing the information together in the final report. I reflected on how the team's different responsibilities contributed to the project.
+
+### Result
+Through this experience, I learned the importance of tracking project activities, managing responsibilities and reflecting on progress. I also improved my understanding of teamwork, documentation and how Agile practices could help organise work and identify areas for improvement.
